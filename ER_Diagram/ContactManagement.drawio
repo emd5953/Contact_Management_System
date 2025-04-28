@@ -10,7 +10,7 @@
         <mxCell id="oBCV2FoEur7ragl6BGmA-2" value="Note&lt;br&gt;-----------------------------&lt;br&gt;date (PK, &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 255));&quot;&gt;with &lt;/font&gt;customer id)&lt;br&gt;text&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="512.5" y="440" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="oBCV2FoEur7ragl6BGmA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oBCV2FoEur7ragl6BGmA-3" target="oBCV2FoEur7ragl6BGmA-6" edge="1">
+        <mxCell id="oBCV2FoEur7ragl6BGmA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" parent="1" source="oBCV2FoEur7ragl6BGmA-3" target="oBCV2FoEur7ragl6BGmA-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oBCV2FoEur7ragl6BGmA-19" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oBCV2FoEur7ragl6BGmA-8" vertex="1" connectable="0">
@@ -18,7 +18,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oBCV2FoEur7ragl6BGmA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oBCV2FoEur7ragl6BGmA-3" target="oBCV2FoEur7ragl6BGmA-5" edge="1">
+        <mxCell id="oBCV2FoEur7ragl6BGmA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#010101);" parent="1" source="oBCV2FoEur7ragl6BGmA-3" target="oBCV2FoEur7ragl6BGmA-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oBCV2FoEur7ragl6BGmA-21" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oBCV2FoEur7ragl6BGmA-10" vertex="1" connectable="0">
@@ -26,7 +26,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oBCV2FoEur7ragl6BGmA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oBCV2FoEur7ragl6BGmA-3" target="oBCV2FoEur7ragl6BGmA-7" edge="1">
+        <mxCell id="oBCV2FoEur7ragl6BGmA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" parent="1" source="oBCV2FoEur7ragl6BGmA-3" target="oBCV2FoEur7ragl6BGmA-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oBCV2FoEur7ragl6BGmA-23" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oBCV2FoEur7ragl6BGmA-12" vertex="1" connectable="0">
@@ -43,7 +43,7 @@
         <mxCell id="oBCV2FoEur7ragl6BGmA-5" value="Interested_In" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="225" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="oBCV2FoEur7ragl6BGmA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oBCV2FoEur7ragl6BGmA-6" target="oBCV2FoEur7ragl6BGmA-4" edge="1">
+        <mxCell id="oBCV2FoEur7ragl6BGmA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" parent="1" source="oBCV2FoEur7ragl6BGmA-6" target="oBCV2FoEur7ragl6BGmA-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="105" />
@@ -58,7 +58,7 @@
         <mxCell id="oBCV2FoEur7ragl6BGmA-6" value="Assigned_To" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="60" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="oBCV2FoEur7ragl6BGmA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oBCV2FoEur7ragl6BGmA-7" target="oBCV2FoEur7ragl6BGmA-2" edge="1">
+        <mxCell id="oBCV2FoEur7ragl6BGmA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);" parent="1" source="oBCV2FoEur7ragl6BGmA-7" target="oBCV2FoEur7ragl6BGmA-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oBCV2FoEur7ragl6BGmA-24" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oBCV2FoEur7ragl6BGmA-18" vertex="1" connectable="0">
@@ -69,7 +69,7 @@
         <mxCell id="oBCV2FoEur7ragl6BGmA-7" value="Has_Note" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="527.5" y="260" width="90" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="oBCV2FoEur7ragl6BGmA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oBCV2FoEur7ragl6BGmA-5" target="oBCV2FoEur7ragl6BGmA-1" edge="1">
+        <mxCell id="oBCV2FoEur7ragl6BGmA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#000000,#000000);" parent="1" source="oBCV2FoEur7ragl6BGmA-5" target="oBCV2FoEur7ragl6BGmA-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oBCV2FoEur7ragl6BGmA-22" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oBCV2FoEur7ragl6BGmA-11" vertex="1" connectable="0">
